@@ -1,0 +1,286 @@
+@media screen and (max-width: 767px){
+    body{
+        margin-left: 0;
+        margin-top: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        height: 131px;
+    }
+
+    .Logo{
+        padding-top: 24px;
+    }
+    .menu{
+        align-content: space-around;
+        width: 100%;
+    }
+
+    .link{
+        padding-top: 0;
+        padding-bottom: 14px;
+        border-bottom: 3px solid #D9D9D9;
+    }
+
+    .link:hover{
+        width: 50%;
+        border-bottom: 3px solid #0065FC;
+        border-top: none;
+    }
+    .titres{
+        margin-right: 21px;
+        margin-left: 20px;
+        margin-top: 31px;
+    }
+
+    .Titre{
+        font-size: 22px;
+        margin-bottom: 0;       
+    }
+
+    .sous-titre{
+        font-size: 16px;
+        margin-top: 4px;
+    }
+    #recherche_bar{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    #icon_map{
+        font-size: 18px;
+        padding-bottom: 16px;
+        padding-top: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+        height: 17.5px;
+    }
+
+    #text_bar{
+        width: 237px;
+    }
+
+    #recherche_button{
+        display: none;
+
+    }
+
+    #iconmobile{
+        display: block;
+        font-size: 18px;
+        color: #FFFFFF;
+        background: #0065FC;
+        border: 1px solid #0065FC;
+        border-radius: 0px 15px 15px 0px;
+        padding-top: 16px;
+        padding-bottom: 13px;
+        padding-left: 16px;
+        padding-right: 16px;
+        height: 20.5px;
+    }
+
+    #filtre{
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 10%;
+        height: 114px;
+        display: block;
+    }
+
+    .blockfiltre{
+        display: flex;
+        flex-direction: row;
+        align-content: space-between;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height: 100%;
+        padding: 0;
+        
+    }
+
+    .filtres{
+        padding-left: 3%;
+        width: 45%;
+        height: 45%;
+        margin-right: 0;
+    }
+
+    .fa-money-bill-wave{
+        font-size: 20px;
+    }
+
+    .fa-person{
+        font-size: 20px;
+
+    }
+
+    .fa-heart{
+        font-size: 20px;
+
+    }
+
+    .fa-dog{
+        font-size: 20px;
+
+    }
+
+    p {
+        font-size: 11px;
+    }
+
+    .info{
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 5%;
+        margin-top: 15%;
+    }
+
+    #i{
+        width: 30px;
+        height: 27px;
+        padding-top: 3px;
+        margin-right: 11px;
+    }
+
+    #resultat{
+        flex-wrap: wrap-reverse;
+    }
+
+    .hebergement{
+        margin-right: 0;
+        width: 100%;
+        border-radius: 0;
+        background: none;
+    }
+
+    #titre-h{
+        margin-left: 5%;
+        font-size: 22px;
+        padding-bottom: 19px;
+        padding-top: 26px;
+    }
+
+    .afficher{
+        display: none;
+    }
+    .card{
+        width: 90%;
+        height: 199px; 
+        margin-bottom: 15px;
+    }
+
+    .card-image img{
+        object-fit: cover;
+        height: 114px;
+    }
+
+    .title-card{
+        margin-top: 4px;
+    }
+    .mostpopular{
+        width: 100%;
+        border-radius: 0;
+        height: 738px;
+    }
+
+    .mosttitle{
+        margin-left: 5%;
+        margin-top: 28px;
+        margin-bottom: 16px;
+    }
+
+    #titre-h2 {
+        font-size: 22px;
+    }
+
+    .mostcard{
+        height: 184px;
+        width: 90%;   
+        margin-bottom: 12px;     
+    }
+
+    .mostcard2{
+        height: 199px;
+    }
+
+    .mostcard-image {
+        width: 50%;
+    }
+
+    .mostcard-image img {
+        object-fit: cover;
+        height: 174px;
+    }
+    
+    .mostnote{
+        margin-top: 108px;
+    }
+
+    .mostnote2{
+        margin-top: 108px;
+    }
+
+    .mostnote3{
+        margin-top: 87px;
+    }
+
+    .Activite{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        margin-left: 8%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+
+    .activitetitre {
+        width: 40%;
+        font-size: 22px;
+    }
+    .activitecards{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .activitecard{
+        margin-bottom: 8%;
+        height: 214px;
+        width: 92%;        
+    }
+
+    .cardimage img {
+        max-height: 152px;
+    }
+
+    footer{
+        flex-direction: column;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        padding-left: 8%;        
+    }
+
+    .colum{
+        margin-bottom: 3%;
+    }
+}
+@media screen and (max-width: 413px){
+    .mostnote{
+        margin-top: 87px;
+    }
+}
+
+@media screen and (max-width: 390px){
+    #i{
+        width: 35px;
+        height: 25px;
+        padding-top: 2px;
+        margin-right: 11px;
+    }
+
+}

@@ -1,0 +1,584 @@
+@media screen and (max-width: 799px) and (min-width: 768px) {
+
+    body{
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+    header{
+        margin-bottom: 58px;
+    }
+
+    .menu {
+        width: 33%;
+    }
+
+    #icon_map{
+        font-size: 18px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+        padding-left: 18px;
+        padding-right: 15px;
+    }
+
+    #text_bar{
+        font-size: 18px;
+    }
+
+    #recherche_button{
+        padding-right: 16px;
+        padding-left: 16px;
+    }
+
+    .text_recherche{
+        font-size: 18px;
+    }
+
+    .filtres{
+        margin-right: 19px;
+        padding-left: 15px;
+        padding-right: 9px;
+        height: 50px;
+    }
+
+    .blockfiltre{
+        padding: 0;
+    }
+
+    #filtretitre{
+        margin-top: 30px;
+    }
+
+    h2{
+        margin-right: 14px;
+    }
+
+    #i{
+        width: 24px;
+        height: 24px;
+        padding-top: 0.70%;
+        font-size: 10px;       
+    }
+
+    #resultat{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    p{
+        font-size: 14px;
+    }
+    .hebergement{
+        width: 726px;
+        height: 554px;
+        margin-right: 0;
+        border-radius: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 0;
+    }
+
+    #titre-h{
+        margin-left: 40px;
+        font-size: 22px;
+    }
+
+    .card{
+        width: 200px;
+        height: 172px;
+        border-radius: 20px;
+    }
+
+    .card-image img{
+        border-radius: 15px 15px 0px 0px;
+        height: 101px;
+    }
+
+    .title-card{
+        font-size: 14px;
+    }
+
+    .sous-titre{
+        font-size: 13px;
+    }
+    .note{
+        margin-top: 3%;
+    }
+
+    .afficher{
+        margin-left: 44px;
+    }
+
+    .mostpopular{
+        margin-top: 53px;
+        width: 644px;
+        padding-left: 40px;
+        padding-right: 40px;
+        border-radius: 20px;
+        padding-top: 0;
+    }
+
+    .mosttitle {
+        margin-left: 0px; 
+        margin-right: 0px; 
+        padding-bottom: 0px;
+        margin-top: 0px; 
+    }
+
+    #titre-h2{
+        font-size: 22px;
+    }
+
+    .mostcards{
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 0;
+    }
+
+    .mostcard{
+        width: 200px;
+        margin-bottom: 48px;
+        border-radius: 20px;
+
+    }
+
+    .mostcard-image img {
+        width: 80px;
+        border-radius: 15px 0px 0px 15px;
+    }
+
+    .mostcard-info{
+        padding-left: 5px;
+        padding-right: 0;
+    }
+
+    .titrecard2{
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .mostsous-titre{
+        font-size: 12px;
+    }
+
+    .mostnote{
+        margin-top: 53px;
+    }
+
+    .mostnote2{
+        margin-top: 53px;
+    }
+    .mostnote3{
+        margin-top: 38px;
+    }
+    .activitetitre{
+        font-size: 22px;
+        margin-top: 70px;
+        margin-bottom: 34px;
+    }
+
+    .activitecard{
+        height: 250px;  
+        margin-bottom: 69px;
+    }
+
+    .cardimage img {
+        height: 193px;
+    }
+
+    .titlecard{
+        font-size: 14px;
+        margin-top: 14px;
+        margin-bottom: 21px;        
+        margin-left: 19px;
+    }
+
+    #parc{
+        font-size: 14px;
+        margin-top: 4px;
+        margin-bottom: 7px;        
+        margin-left: 19px;
+    }
+
+    #notredame{
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 11px;        
+        margin-left: 19px;
+    }
+    footer{
+        padding-top: 0;  
+        padding-bottom: 0;
+    }
+}
+@media screen and (max-width: 992px) and (min-width: 800px) {
+
+    body{
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+    header{
+        margin-bottom: 58px;
+    }
+
+    .menu {
+        width: 33%;
+    }
+
+    p{
+        font-size: 14px;
+    }
+
+    #icon_map{
+        font-size: 18px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+        padding-left: 18px;
+        padding-right: 15px;
+    }
+
+    #text_bar{
+        font-size: 18px;
+    }
+
+    #recherche_button{
+        padding-right: 16px;
+        padding-left: 16px;
+    }
+
+    .text_recherche{
+        font-size: 18px;
+    }
+
+    .filtres{
+        margin-right: 19px;
+        padding-left: 15px;
+        padding-right: 9px;
+        height: 50px;
+    }
+
+    .blockfiltre{
+        padding: 0;
+    }
+
+    #filtretitre{
+        margin-top: 30px;
+    }
+
+    h2{
+        margin-right: 14px;
+    }
+
+    #i{
+        width: 24px;
+        height: 24px;
+        padding-top: 0.70%;
+        font-size: 10px;       
+    }
+
+    #resultat{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hebergement{
+        width: 726px;
+        height: 554px;
+        margin-right: 0;
+        border-radius: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 0;
+    }
+
+    #titre-h{
+        margin-left: 40px;
+        font-size: 22px;
+    }
+
+    .card{
+        width: 200px;
+        height: 172px;
+        border-radius: 20px;
+    }
+
+    .card-image img{
+        border-radius: 15px 15px 0px 0px;
+        height: 101px;
+    }
+
+    .title-card{
+        font-size: 14px;
+    }
+
+    .sous-titre{
+        font-size: 13px;
+    }
+    .note{
+        margin-top: 3%;
+    }
+
+    .afficher{
+        margin-left: 44px;
+    }
+
+    .mostpopular{
+        margin-top: 53px;
+        width: 644px;
+        padding-left: 40px;
+        padding-right: 40px;
+        border-radius: 20px;
+        padding-top: 0;
+    }
+
+    .mosttitle {
+        margin-left: 0px; 
+        margin-right: 0px; 
+        padding-bottom: 0px;
+        margin-top: 10px; 
+    }
+
+    #titre-h2{
+        font-size: 22px;
+    }
+
+    .mostcards{
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 0;
+    }
+
+    .mostcard{
+        width: 200px;
+        margin-bottom: 48px;
+        border-radius: 20px;
+
+    }
+
+    .mostcard-image img {
+        width: 80px;
+        border-radius: 15px 0px 0px 15px;
+    }
+
+    .mostcard-info{
+        padding-left: 5px;
+        padding-right: 0;
+    }
+
+    .titrecard2{
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .mostsous-titre{
+        font-size: 12px;
+    }
+
+    .mostnote{
+        margin-top: 53px;
+    }
+
+    .mostnote2{
+        margin-top: 53px;
+    }
+    .mostnote3{
+        margin-top: 38px;
+    }
+    .activitetitre{
+        font-size: 22px;
+        margin-top: 70px;
+        margin-bottom: 34px;
+    }
+
+    .activitecard{
+        height: 250px;  
+        margin-bottom: 69px;
+    }
+
+    .cardimage img {
+        height: 193px;
+    }
+
+    .titlecard{
+        font-size: 14px;
+        margin-top: 14px;
+        margin-bottom: 21px;        
+        margin-left: 19px;
+    }
+
+    #parc{
+        font-size: 14px;
+        margin-top: 4px;
+        margin-bottom: 7px;        
+        margin-left: 19px;
+    }
+
+    #notredame{
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 11px;        
+        margin-left: 19px;
+    }
+    footer{
+        padding-top: 0;  
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 992px) and (min-width: 834px) {
+    .hebergement{
+        width: 750px;
+    }
+
+    .card{
+        width: 210px;
+    }
+
+    .mostpopular{
+        width: 667px;
+    }
+    .mostcard{
+        width: 210px;
+        padding-right: 5px;
+    }
+    .mostnote3{
+        margin-top: 52px;
+    }
+    .mostnote2{
+        margin-top: 67px;        
+    }
+
+    footer{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+}
+
+@media  screen and (max-width: 1024px) and (min-width: 993px) {
+    body{
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    #icon_map{
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-left: 18px;
+        padding-right: 16px;
+    }
+
+    .blockfiltre{
+        padding-left: 2%;
+
+    }
+
+    .filtres{
+        padding-right: 2%;
+    }
+
+    #i{
+        padding-top: 0.70%;
+    }
+
+    #resultat{
+        flex-direction: column;
+    }
+
+    .hebergement{
+        width: 843px;
+        padding-left: 20px;
+        padding-right: 20px;
+        height: 626px;
+    }
+
+    #titre-h{
+        font-size: 22px;
+    }
+
+    #titre-h2{
+        font-size: 22px;
+    }
+    .mostpopular{
+        width: 803px;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-top: 53px;
+        margin-bottom: 70px;
+
+    }
+
+    .mosttitle{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .mostcards{
+        flex-direction: row;
+    }
+
+    .mostcard{
+        width: 252px;
+    }
+
+    .mostcard-image{
+        width: 55%;
+        margin-right: -9px;
+    }
+
+    .mostsous-titre{
+        font-size: 13px;
+    }
+    .mostnote{
+        margin-top: 30%;
+    }
+    .mostnote3{
+        margin-top: 25%;
+    }
+    .mostnote2{
+        margin-top: 42%;
+    }
+
+    #activite{
+        margin-bottom: 69px;
+    }
+
+    .activitetitre{
+        font-size: 22px;
+        margin-bottom: 34px;
+    }
+
+    .activitecard{
+        height: 267px;
+        width: 182px;
+    }
+
+    .cardimage img{
+        max-height: 212px;
+    }
+
+    .titlecard{
+        font-size: 16px;
+        margin-top: 8%;
+    }
+
+    #parc{
+        margin-top: 3%;
+    }
+
+    #notredame{
+        margin-top: 3%;
+    }
+
+    footer{
+        padding-top: 45px;
+        padding-bottom: 58px;
+    }
+}
