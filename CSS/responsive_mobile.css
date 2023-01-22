@@ -94,7 +94,7 @@
 
     .blockfiltre{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         align-content: space-between;
         justify-content: space-between;
         flex-wrap: wrap;
@@ -105,7 +105,7 @@
 
     .filtres{
         padding-left: 3%;
-        width: 45%;
+        width: 43%;
         height: 45%;
         margin-right: 0;
     }
@@ -141,8 +141,8 @@
     }
 
     #i{
-        width: 30px;
-        height: 27px;
+        width: 35px;
+        height: 25px;
         padding-top: 3px;
         margin-right: 11px;
     }
@@ -277,9 +277,9 @@
 
 @media screen and (max-width: 390px){
     #i{
-        width: 35px;
+        width: 38px;
         height: 25px;
-        padding-top: 2px;
+        padding-top: 3px;
         margin-right: 11px;
     }
 

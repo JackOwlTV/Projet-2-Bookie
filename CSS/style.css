@@ -67,8 +67,7 @@ form{
     align-items: center;
 }
 #icon_map{
-    padding: 1.11%;
-
+    padding: 1.2%;
     background: #F2F2F2;
     
 
@@ -192,11 +191,12 @@ li i{
     background: transparent;
     border: 1px solid #D9D9D9;
     border-radius: 50%;
-    width: 32px;
-    height: 32px;
+    width: 35px;
+    height: 26px;
+    padding-top: 0.5%;
     margin-right: 1%;
     text-align: center;
-    padding-top: 0.45%;
+
 }
 #texte{
     display: flex;
